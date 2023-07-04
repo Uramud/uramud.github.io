@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+}
+img{
+    width: 15rem;
+    height: 10rem;
+}
+a{
+ text-decoration: none;   
+}
+nav h1{
+    text-align: center;
+    font-size: 4rem;
+    padding-bottom: 2rem;
+}
+
+section{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    display: flex;
+    flex: wrap;
+    justify-content:space-around;
+    text-align: center;
+}
+label{
+ font-size: 2rem;   
+}
+.projectList{
+    display: flex;
+    flex-direction: column;
+}
