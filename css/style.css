@@ -7,6 +7,7 @@ img{
 }
 a{
  text-decoration: none;   
+ padding: 1rem;
 }
 nav h1{
     text-align: center;
@@ -20,13 +21,14 @@ section{
     margin-right: 2rem;
     display: flex;
     flex: wrap;
-    justify-content:space-around;
     text-align: center;
 }
 label{
- font-size: 2rem;   
+ font-size: 2rem;  
+ padding-bottom: .5rem; 
 }
 .projectList{
     display: flex;
     flex-direction: column;
+    padding: 2rem;
 }
